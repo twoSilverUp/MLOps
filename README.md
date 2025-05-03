@@ -8,7 +8,6 @@ A single cycle of the development for a ML model
    - search and prepare the dataset to solve the problem with ML methods
    - design and implement a ML model
    - evaluate the ML model
----
 ## My Topic
 Classifying images as smoking or not-smoking
 
