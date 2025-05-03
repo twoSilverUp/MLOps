@@ -1,5 +1,5 @@
 # MLOps/Assignment1
-This Repository is for assifnment1 of the MLOps lecture
+This Repository is for assignment1 of the MLOps lecture
 
 ## A Simple ML Project
 A single cycle of the development for a ML model
