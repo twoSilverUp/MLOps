@@ -11,4 +11,4 @@ A single cycle of the development for a ML model
 ## My Topic
 Classifying images as smoking or not-smoking
 
-You can see the details & result in `report.pdf`
+You can see the details & result in `Report.pdf`
