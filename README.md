@@ -1,6 +1,6 @@
 # MLOps/Assignment1
 This Repository is for assifnment1 of the MLOps lecture
----
+
 ## A Simple ML Project
 A single cycle of the development for a ML model
 - Design, implement, and evaluate a simple ML project based on the dataset publicly available
